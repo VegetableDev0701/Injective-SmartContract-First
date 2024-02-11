@@ -1,0 +1,1 @@
+1394f2d4b7e6c4762e7cde2ecbe838edf043110d56756ba0ef941a0589bfdaac  ./target/wasm32-unknown-unknown/release/inj_first.wasm
